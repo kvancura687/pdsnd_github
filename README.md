@@ -4,7 +4,7 @@
 4 October 2024
 
 ### Project Title
-Bikeshare Information
+Bikeshare Stats
 
 ### Description
 This project provides information regarding popular places and times to bikeshare.
@@ -16,4 +16,4 @@ new_tork_city.csv
 washington.csv
 
 ### Credits
-I would like to give create to [Udacity](https://www.udacity.com) for creating this course to help people like me learn!
+I would like to give credit to [Udacity](https://www.udacity.com) for creating this course to help people like me learn!
