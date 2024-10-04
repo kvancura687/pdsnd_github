@@ -4,7 +4,9 @@ import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
-              'washington': 'washington.csv' }
+              'washington': 'washington.csv',
+              'atlanta': 'atlanta.csv',
+              'dallas': 'dallas.csv' }
 
 def get_filters():
     """
@@ -86,7 +88,7 @@ def station_stats(df):
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
-    print('\nCalculating Trip Duration...\n')
+    print('\nCalculating Total and Average Trip Duration...\n')
     start_time = time.time()
 
     # display total travel time
