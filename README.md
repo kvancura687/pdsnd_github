@@ -5,7 +5,7 @@
 Bikeshare Stats
 
 ### Description
-This project provides information regarding popular places and times to bikeshare.
+This project provides bikeshare information, such as popular places, times, and user demographics.
 
 ### Files used
 bikeshare_2.py
